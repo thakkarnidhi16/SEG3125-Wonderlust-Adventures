@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SEG3125-Wonderlust-Adventures/static/css/main.5efac8b1.css",
+    "main.js": "/SEG3125-Wonderlust-Adventures/static/js/main.6a1d1e46.js",
+    "index.html": "/SEG3125-Wonderlust-Adventures/index.html",
+    "main.5efac8b1.css.map": "/SEG3125-Wonderlust-Adventures/static/css/main.5efac8b1.css.map",
+    "main.6a1d1e46.js.map": "/SEG3125-Wonderlust-Adventures/static/js/main.6a1d1e46.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5efac8b1.css",
+    "static/js/main.6a1d1e46.js"
+  ]
+}
