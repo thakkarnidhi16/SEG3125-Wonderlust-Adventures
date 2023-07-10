@@ -55,19 +55,19 @@ const DestinationPage = () => {
         <h2>Top Places</h2>
         <div className="top-places">
           <div className="place">
-            <img src="toronto.jpg" alt="Toronto" />
+            <img src="/toronto.jpg" alt="Toronto" />
             <Link to="/toronto">Toronto</Link>
           </div>
           <div className="place">
-            <img src="vancouver.jpg" alt="Place 2" />
+            <img src="/vancouver.jpg" alt="Place 2" />
             <Link to="/vancouver">Vancouver</Link>
           </div>
           <div className="place">
-            <img src="Niagara.jpg" alt="Niagara Falls" />
+            <img src="/Niagara.jpg" alt="Niagara Falls" />
             <Link to="/Niagara">Niagara Falls</Link>
           </div>
           <div className="place">
-            <img src="Banff.jpg" alt="Banff" />
+            <img src="/Banff.jpg" alt="Banff" />
             <Link to="/banff">Banff</Link>
           </div>
         </div>
